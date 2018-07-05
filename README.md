@@ -5,4 +5,4 @@
 结论一:中证500指数年化收益率最高,18%左右,上证50收益率仅10%
 结论二:当指数小于虚线的时候,已经进入低估值状态.
 
-https://github.com/onmyway4212/matplotlib-/raw/03/zz500.png?raw=true
+![Image text](https://github.com/onmyway4212/matplotlib-/raw/03/zz500.png?raw=true)
